@@ -12,6 +12,6 @@ module.exports = {
   // showNav: false,
   showNav: true,
 
-  // entry: './__demo/**/*.js',
-  entry: './_hooks/**/*.js',
+  // entry: './__demo/cdn/*.js',
+  entry: './_v-confirm/*.js',
 }
