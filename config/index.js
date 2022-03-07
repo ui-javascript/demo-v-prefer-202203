@@ -13,5 +13,6 @@ module.exports = {
   showNav: true,
 
   // entry: './__demo/cdn/*.js',
-  entry: './_v-confirm/*.js',
+  entry: './_v-confirm-dialog/index.js',
+  // entry: './_vueuse/*.js',
 }
